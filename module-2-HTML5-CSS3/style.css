@@ -80,3 +80,13 @@ section:nth-child(3){
 }
 
 }
+
+@media (max-width: 767px){
+	html{
+		font-size: 10px;
+	}
+section{
+	width: 98%;
+}
+
+}
